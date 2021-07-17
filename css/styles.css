@@ -36,6 +36,7 @@ body {
   letter-spacing: 0.02em;
   text-decoration: none;
 }
+.list-text,
 .nav-links,
 .contacts-links,
 .list-btns,
@@ -147,9 +148,7 @@ body {
 footer {
   background: #2f303a;
 }
-.list-item > p {
-  color: rgba(255, 255, 255, 0.6);
-}
+
 .logo-white {
   font-family: 'Raleway', sans-serif;
   font-weight: 700;
@@ -160,7 +159,12 @@ footer {
 }
 .list-text {
   font-style: normal;
+  color: rgba(255, 255, 255, 0.6);
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 1.7;
 }
+
 /* Portfolio */
 .item-btn {
   background: var(--secondary-color);
