@@ -79,7 +79,6 @@ body {
 .hero-btn {
   background: #188ce8;
   color: var(--text-white);
-
   width: 200px;
   height: 50px;
   cursor: pointer;
@@ -174,6 +173,7 @@ footer {
   font-size: 16px;
   line-height: 1.6;
   letter-spacing: 0.03em;
+  cursor: pointer;
 }
 
 .item-btn:hover,
