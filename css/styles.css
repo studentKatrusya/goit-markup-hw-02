@@ -183,7 +183,7 @@ footer {
 .title-link {
   font-weight: 700;
   font-size: 18px;
-  line-height: 1.6;
+  line-height: 2;
   letter-spacing: 0.06em;
   color: var(--text-secondary);
 }
